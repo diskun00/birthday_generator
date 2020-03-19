@@ -5,5 +5,5 @@ setup(
         version="0.1",
         author="Diskun",
         packages=["birthday_generator"],
-        install_requires=["icalendar", "LunarSolarConverter"]
+        install_requires=["icalendar", "zhdate", "unittest"]
 )
